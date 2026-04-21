@@ -8,3 +8,5 @@ The Scrolling platformer module and the Mega-metro-vania module are used
 to build this game, along with some edits in the assembly scripts. The ideas from
 the intermediate modules of Scrolling platformer (jumping through platforms,
 avoiding hazards) and Simple Shump(Blob monster) are implicitly adopted.
+
+This is the gameplay video: https://youtu.be/spqUkYXnPZM 
