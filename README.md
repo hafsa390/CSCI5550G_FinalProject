@@ -11,7 +11,7 @@ avoiding hazards) and Simple Shump(Blob monster) are implicitly adopted.
 
 This is the gameplay video: https://youtu.be/spqUkYXnPZM 
 
-The below tutorials were helpful while developing the game in NESMaker:
+The below tutorials were helpful while developing the WILD RUN game in NESMaker:
 
 1. NESmaker: L2R Scrolling Platformer - Intermediate: https://vimeo.com/450774487/6986e0d05f
 2. NESmaker: MetroVania Tutorial - Basic: https://vimeo.com/448125652/160273d836
